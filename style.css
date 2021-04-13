@@ -1,0 +1,34 @@
+.all{
+    width: 700px;
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+    border-top: solid 1px;
+    border-left: solid 1px;
+    height: 100%;
+    }
+.baner{
+    width: 100%;
+}
+
+.boxleft{
+    width: 279px;
+    border-left: solid 1px;
+    float: left;
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+    
+    
+}
+
+.boxright{
+    width: 418px;
+    float: right;
+    border-top: solid 1px;
+    height: 151px;
+    border-bottom: solid 1px;
+    border-right: solid 1px;
+}
+
+p {
+    margin-left: 5px;
+}
